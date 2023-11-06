@@ -3,7 +3,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 💻 Dev front-end<br>
-🌱 Atualmente estou aprendendo React<br>
+🌱 Atualmente estou aprendendo Vue JS<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mig-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
